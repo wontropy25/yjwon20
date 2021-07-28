@@ -1,4 +1,10 @@
-### Hi there 👋
+## Intro
+- Konkuk Univ. Computer Science & Engineering 20
+- 2000년생 (22)
+  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjwon20)](https://github.com/yjwon20/github-readme-stats)
+
 
 <!--
 **yjwon20/yjwon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
