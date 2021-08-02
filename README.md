@@ -2,7 +2,6 @@
 
 ## Intro
 - Konkuk Univ. Computer Science & Engineering 20
-- 2000년생 (22)
   
 ## Github Stats
 <div align=center>
