@@ -12,8 +12,8 @@
 ## Solved.ac Rating
 <div align=center>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontpy20)](https://solved.ac/wontpy20)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontpy20)](https://solved.ac/wontpy20/)
+
 </div>
 
 <!--
