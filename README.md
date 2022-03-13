@@ -4,10 +4,8 @@
 - Konkuk Univ. Computer Science & Engineering 20
   
 ## Github Stats
-<div align=center>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjwon20)](https://github.com/yjwon20/github-readme-stats)
-</div>
 
 ## Solved.ac Rating
 <div align=center>
