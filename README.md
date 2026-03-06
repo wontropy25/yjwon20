@@ -2,10 +2,6 @@
 
 ## Intro
 - Konkuk Univ. Computer Science & Engineering 20
-  
-## Github Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjwon20)](https://github.com/yjwon20/github-readme-stats)
 
 ## Solved.ac Rating
 [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=wontpy20)](https://solved.ac/profile/wontpy20) 
